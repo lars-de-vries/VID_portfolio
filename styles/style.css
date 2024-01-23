@@ -1,0 +1,1055 @@
+.mediaViewInfo {
+	--web-view-name: Portfolio;
+	--web-view-id: Portfolio;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Portfolio;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Portfolio_Class {
+	position: absolute;
+	width: 1920px;
+	height: 20815px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Portfolio;
+	--web-view-id: Portfolio;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+.bg_Class {
+	fill: rgba(255,255,255,1);
+}
+.bg {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 20815px;
+	left: 0px;
+	top: 0px;
+}
+.Typografie_Class {
+	left: 142px;
+	top: 1212px;
+	position: absolute;
+	overflow: visible;
+	width: 327px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: "roc-grotesk-wide", sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(23,23,23,1);
+}
+.Grid__Kleur_Class {
+	left: 142px;
+	top: 3924px;
+	position: absolute;
+	overflow: visible;
+	width: 367px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: "roc-grotesk-wide", sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(23,23,23,1);
+}
+.Meesterproef_Class {
+	left: 142px;
+	top: 17007px;
+	position: absolute;
+	overflow: visible;
+	width: 422px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: "roc-grotesk-wide", sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(23,23,23,1);
+}
+.Interface__Interactie_Class {
+	left: 142px;
+	top: 11878px;
+	position: absolute;
+	overflow: visible;
+	width: 643px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: "roc-grotesk-wide", sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(23,23,23,1);
+}
+.Interface__Beweging_Class {
+	left: 142px;
+	top: 14872px;
+	position: absolute;
+	overflow: visible;
+	width: 635px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: "roc-grotesk-wide", sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(23,23,23,1);
+}
+.Beeldtaal_Class {
+	left: 142px;
+	top: 7733px;
+	position: absolute;
+	overflow: visible;
+	width: 270px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: "roc-grotesk-wide", sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(23,23,23,1);
+}
+.In_de_eerste_week_van_de_minor_Class {
+	left: 142px;
+	top: 2507px;
+	position: absolute;
+	overflow: visible;
+	width: 942px;
+	height: 276px;
+	line-height: 42px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: "roc-grotesk", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(91,91,91,1);
+}
+.De_opdracht_was_om_een_visueel_Class {
+	left: 142px;
+	top: 5219px;
+	position: absolute;
+	overflow: visible;
+	width: 942px;
+	height: 318px;
+	line-height: 42px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: "roc-grotesk", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(91,91,91,1);
+}
+.Het_afsluitende_project_van_de_Class {
+	left: 142px;
+	top: 18302px;
+	position: absolute;
+	overflow: visible;
+	width: 942px;
+	height: 444px;
+	line-height: 42px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: "roc-grotesk", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(91,91,91,1);
+}
+.De_opdracht_was_om_een_digital_Class {
+	left: 142px;
+	top: 13173px;
+	position: absolute;
+	overflow: visible;
+	width: 942px;
+	height: 234px;
+	line-height: 42px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: "roc-grotesk", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(91,91,91,1);
+}
+.Binnen_dit_vak_moest_je_zelf_e_Class {
+	left: 142px;
+	top: 16167px;
+	position: absolute;
+	overflow: visible;
+	width: 942px;
+	height: 360px;
+	line-height: 42px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: "roc-grotesk", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(91,91,91,1);
+}
+.Lars_de_Vries_Class {
+	left: 142px;
+	top: 20686px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	line-height: 42px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: "roc-grotesk", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(91,91,91,1);
+}
+.Minor_Visual_Interface_Design_Class {
+	left: 1439px;
+	top: 20686px;
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	white-space: nowrap;
+	line-height: 42px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: "roc-grotesk", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(91,91,91,1);
+}
+.Ik_heb_uiteindelijk_gekozen_om_Class {
+	left: 142px;
+	top: 13497px;
+	position: absolute;
+	overflow: visible;
+	width: 942px;
+	height: 234px;
+	line-height: 42px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: "roc-grotesk", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(91,91,91,1);
+}
+.Rectangle_2_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1636px;
+	height: 1023px;
+	left: 142px;
+	top: 1324px;
+}
+.Rectangle_33_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_33 {
+	position: absolute;
+	overflow: visible;
+	width: 1636px;
+	height: 1023px;
+	left: 142px;
+	top: 4036px;
+}
+.Rectangle_45_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_45 {
+	position: absolute;
+	overflow: visible;
+	width: 1636px;
+	height: 1023px;
+	left: 142px;
+	top: 17119px;
+}
+.Rectangle_41_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_41 {
+	position: absolute;
+	overflow: visible;
+	width: 1636px;
+	height: 1023px;
+	left: 142px;
+	top: 11990px;
+}
+.Rectangle_44_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_44 {
+	position: absolute;
+	overflow: visible;
+	width: 1636px;
+	height: 1023px;
+	left: 142px;
+	top: 14984px;
+}
+.Rectangle_36_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_36 {
+	position: absolute;
+	overflow: visible;
+	width: 1636px;
+	height: 1023px;
+	left: 142px;
+	top: 6230px;
+}
+.Rectangle_46_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_46 {
+	position: absolute;
+	overflow: visible;
+	width: 1636px;
+	height: 1023px;
+	left: 142px;
+	top: 19439px;
+}
+.Rectangle_18_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 802px;
+	height: 501px;
+	left: 976px;
+	top: 2943px;
+}
+.Rectangle_34_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_34 {
+	position: absolute;
+	overflow: visible;
+	width: 802px;
+	height: 501px;
+	left: 976px;
+	top: 5697px;
+}
+.Rectangle_47_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_47 {
+	position: absolute;
+	overflow: visible;
+	width: 802px;
+	height: 501px;
+	left: 976px;
+	top: 18906px;
+}
+.Rectangle_42_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_42 {
+	position: absolute;
+	overflow: visible;
+	width: 802px;
+	height: 501px;
+	left: 976px;
+	top: 13891px;
+}
+.Rectangle_27_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 802px;
+	height: 628px;
+	left: 142px;
+	top: 7845px;
+}
+.Rectangle_21_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 802px;
+	height: 501px;
+	left: 142px;
+	top: 2943px;
+}
+.Rectangle_35_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_35 {
+	position: absolute;
+	overflow: visible;
+	width: 802px;
+	height: 501px;
+	left: 142px;
+	top: 5697px;
+}
+.Rectangle_48_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_48 {
+	position: absolute;
+	overflow: visible;
+	width: 802px;
+	height: 501px;
+	left: 142px;
+	top: 18906px;
+}
+.Rectangle_43_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_43 {
+	position: absolute;
+	overflow: visible;
+	width: 802px;
+	height: 501px;
+	left: 142px;
+	top: 13891px;
+}
+.Rectangle_28_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 802px;
+	height: 628px;
+	left: 976px;
+	top: 7845px;
+}
+.typografie3_Class {
+	fill: rgba(245,245,245,1);
+}
+.typografie3 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1422px;
+	height: 852px;
+	left: 309px;
+	top: 1469px;
+}
+.typografie3_bg_Class {
+	position: absolute;
+	width: 1302px;
+	height: 732px;
+	left: 309px;
+	top: 1469px;
+	overflow: visible;
+}
+.gridkleur1_Class {
+	fill: rgba(245,245,245,1);
+}
+.gridkleur1 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1422px;
+	height: 852px;
+	left: 309px;
+	top: 4181px;
+}
+.meesterproef1_Class {
+	fill: rgba(245,245,245,1);
+}
+.meesterproef1 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1422px;
+	height: 852px;
+	left: 309px;
+	top: 17264px;
+}
+.bond1_Class {
+	fill: rgba(245,245,245,1);
+}
+.bond1 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1422px;
+	height: 852px;
+	left: 309px;
+	top: 12135px;
+}
+.screencapture-lars-de-vries-gi_Class {
+	fill: rgba(245,245,245,1);
+}
+.screencapture-lars-de-vries-gi {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1422px;
+	height: 852px;
+	left: 309px;
+	top: 15129px;
+}
+.gridkleur4_Class {
+	fill: rgba(245,245,245,1);
+}
+.gridkleur4 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1422px;
+	height: 852px;
+	left: 309px;
+	top: 6375px;
+}
+.meesterproef3_Class {
+	fill: rgba(245,245,245,1);
+}
+.meesterproef3 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1422px;
+	height: 852px;
+	left: 309px;
+	top: 19584px;
+}
+.typografie2_Class {
+	fill: rgba(245,245,245,1);
+}
+.typografie2 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 757px;
+	height: 479px;
+	left: 1058px;
+	top: 3014px;
+}
+.gridkleur2_Class {
+	fill: rgba(245,245,245,1);
+}
+.gridkleur2 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 757px;
+	height: 479px;
+	left: 1058px;
+	top: 5768px;
+}
+.meesterproef4_Class {
+	fill: rgba(245,245,245,1);
+}
+.meesterproef4 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 757px;
+	height: 479px;
+	left: 1058px;
+	top: 18977px;
+}
+.bond3_Class {
+	fill: rgba(245,245,245,1);
+}
+.bond3 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 757px;
+	height: 479px;
+	left: 1058px;
+	top: 13962px;
+}
+.mw28qau7e4vxd77nndc6rfedi88f_Class {
+	fill: rgba(245,245,245,1);
+}
+.mw28qau7e4vxd77nndc6rfedi88f {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 756px;
+	height: 596px;
+	left: 225px;
+	top: 7921px;
+}
+.typografie1_Class {
+	fill: rgba(245,245,245,1);
+}
+.typografie1 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 757px;
+	height: 479px;
+	left: 224px;
+	top: 3014px;
+}
+.gridkleur3_Class {
+	fill: rgba(245,245,245,1);
+}
+.gridkleur3 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 757px;
+	height: 479px;
+	left: 224px;
+	top: 5768px;
+}
+.meesterproef2_Class {
+	fill: rgba(245,245,245,1);
+}
+.meesterproef2 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 757px;
+	height: 479px;
+	left: 224px;
+	top: 18977px;
+}
+.bond2_Class {
+	fill: rgba(245,245,245,1);
+}
+.bond2 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 757px;
+	height: 479px;
+	left: 224px;
+	top: 13962px;
+}
+.Group_52_Class {
+	fill: rgba(245,245,245,1);
+}
+.Group_52 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 756px;
+	height: 519px;
+	left: 1059px;
+	top: 7960px;
+}
+.Artboard__5_Class {
+	fill: rgba(245,245,245,1);
+}
+.Artboard__5 {
+	filter: drop-shadow(4px 4px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1200px;
+	height: 1639px;
+	left: 420px;
+	top: 9678px;
+}
+.gridkleur1_by_Class {
+	position: absolute;
+	width: 1302px;
+	height: 732px;
+	left: 309px;
+	top: 4181px;
+	overflow: visible;
+}
+.meesterproef1_bz_Class {
+	position: absolute;
+	width: 1302px;
+	height: 732px;
+	left: 309px;
+	top: 17264px;
+	overflow: visible;
+}
+.bond1_b_Class {
+	position: absolute;
+	width: 1302px;
+	height: 732px;
+	left: 309px;
+	top: 12135px;
+	overflow: visible;
+}
+.screencapture-lars-de-vries-gi_b_Class {
+	position: absolute;
+	width: 1302px;
+	height: 732px;
+	left: 309px;
+	top: 15129px;
+	overflow: visible;
+}
+.gridkleur4_b_Class {
+	position: absolute;
+	width: 1302px;
+	height: 732px;
+	left: 309px;
+	top: 6375px;
+	overflow: visible;
+}
+.meesterproef3_b_Class {
+	position: absolute;
+	width: 1302px;
+	height: 732px;
+	left: 309px;
+	top: 19584px;
+	overflow: visible;
+}
+.typografie2_b_Class {
+	position: absolute;
+	width: 637px;
+	height: 359px;
+	left: 1058px;
+	top: 3014px;
+	overflow: visible;
+}
+.gridkleur2_b_Class {
+	position: absolute;
+	width: 637px;
+	height: 359px;
+	left: 1058px;
+	top: 5768px;
+	overflow: visible;
+}
+.meesterproef4_b_Class {
+	position: absolute;
+	width: 637px;
+	height: 359px;
+	left: 1058px;
+	top: 18977px;
+	overflow: visible;
+}
+.bond3_b_Class {
+	position: absolute;
+	width: 637px;
+	height: 359px;
+	left: 1058px;
+	top: 13962px;
+	overflow: visible;
+}
+.mw28qau7e4vxd77nndc6rfedi88f_b_Class {
+	position: absolute;
+	width: 636px;
+	height: 476px;
+	left: 225px;
+	top: 7921px;
+	overflow: visible;
+}
+.typografie1_b_Class {
+	position: absolute;
+	width: 637px;
+	height: 359px;
+	left: 224px;
+	top: 3014px;
+	overflow: visible;
+}
+.gridkleur3_ca_Class {
+	position: absolute;
+	width: 637px;
+	height: 359px;
+	left: 224px;
+	top: 5768px;
+	overflow: visible;
+}
+.meesterproef2_cb_Class {
+	position: absolute;
+	width: 637px;
+	height: 359px;
+	left: 224px;
+	top: 18977px;
+	overflow: visible;
+}
+.bond2_cc_Class {
+	position: absolute;
+	width: 637px;
+	height: 359px;
+	left: 224px;
+	top: 13962px;
+	overflow: visible;
+}
+.Group_52_cd_Class {
+	position: absolute;
+	width: 636px;
+	height: 399px;
+	left: 1059px;
+	top: 7960px;
+	overflow: visible;
+}
+.Line_1_Class {
+	opacity: 0.2;
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1215px;
+	height: 1px;
+	left: 564px;
+	top: 1236px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_2_Class {
+	opacity: 0.2;
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1175px;
+	height: 1px;
+	left: 604px;
+	top: 3948px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_7_Class {
+	opacity: 0.2;
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 1636px;
+	height: 1px;
+	left: 142.5px;
+	top: 20622px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_6_Class {
+	opacity: 0.2;
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 1120px;
+	height: 1px;
+	left: 659px;
+	top: 17031px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_4_Class {
+	opacity: 0.2;
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 899px;
+	height: 1px;
+	left: 880px;
+	top: 11902px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_5_Class {
+	opacity: 0.2;
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 907px;
+	height: 1px;
+	left: 872px;
+	top: 14896px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_3_Class {
+	opacity: 0.2;
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1272px;
+	height: 1px;
+	left: 507px;
+	top: 7757px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_1_Class {
+	position: absolute;
+	width: 1361px;
+	height: 354px;
+	left: 160px;
+	top: 363px;
+	overflow: visible;
+}
+.In_mijn_derde_jaar_aan_de_ople_Class {
+	left: 0px;
+	top: 138px;
+	position: absolute;
+	overflow: visible;
+	width: 942px;
+	height: 150px;
+	line-height: 42px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: "roc-grotesk", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(91,91,91,1);
+}
+.Lars_de_Vries_cn_Class {
+	left: 138px;
+	top: 330px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	line-height: 42px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: "roc-grotesk-wide", sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(23,23,23,1);
+}
+.Line_8_Class {
+	opacity: 0.2;
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	width: 91px;
+	height: 1px;
+	left: 0px;
+	top: 342px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Visual_Interface_Design_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1362px;
+	white-space: nowrap;
+	line-height: 119px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: "roc-grotesk-wide", sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 96px;
+	color: rgba(23,23,23,1);
+}
+.Voor_de_eindopdracht_van_het_v_Class {
+	left: 142px;
+	top: 9041px;
+	position: absolute;
+	overflow: visible;
+	width: 942px;
+	height: 276px;
+	line-height: 42px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: "roc-grotesk", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(91,91,91,1);
+}
+.Voor_het_vak_Beeldtaal_dienden_Class {
+	left: 142px;
+	top: 8633px;
+	position: absolute;
+	overflow: visible;
+	width: 942px;
+	height: 318px;
+	line-height: 42px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: "roc-grotesk", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(91,91,91,1);
+}
+.Rectangle_37_Class {
+	fill: rgba(245,245,245,1);
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 1636px;
+	height: 1921px;
+	left: 142px;
+	top: 9477px;
+}
+.Artboard__5_ct_Class {
+	position: absolute;
+	width: 1080px;
+	height: 1519px;
+	left: 420px;
+	top: 9678px;
+	overflow: visible;
+}
